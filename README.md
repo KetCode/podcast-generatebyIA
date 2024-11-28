@@ -22,6 +22,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com/)
+- [Suno](https://suno.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -30,4 +31,5 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Copilot Para gerar capas
+- Suno Para gerar a música
 - Capcut para tratar aúdio e adicionar sons de fundo
