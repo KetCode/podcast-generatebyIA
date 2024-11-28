@@ -5,9 +5,10 @@
 />
 </p>
 
-<p align="center">
+<h2 align="center">
     Papo de Suor
-</p>
+    <p/>
+</h2>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
